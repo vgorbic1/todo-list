@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "Vlad's Demo App",
     "scripts": {
-        "start": "tsc && currently \"tsc -w\" \"lite-server\" ",
+        "start": "tsc && concurrently \"tsc -w\" \"lite-server\" ",
         "lite": "lite-server",
         "tsc": "tsc",
         "tsc:w": "tsc -w"
