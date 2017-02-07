@@ -1,2 +1,2 @@
-# angular2skeleton
-A skeleton app for Angular 2 projects
+# Todo List 
+Angular 2 application
